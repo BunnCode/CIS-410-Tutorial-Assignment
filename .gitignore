@@ -1,0 +1,8 @@
+Library/
+Assets/shinespark/*
+Assets/VRTK/*
+Temp/
+Build/
+*.cache
+Assets/ThirdParty/*
+Browse.VC.opendb
